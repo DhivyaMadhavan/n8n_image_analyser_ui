@@ -21,3 +21,7 @@ dist-ssr
 *.sln
 *.sw?
 .env
+App copy 2.tsx
+App copy.tsx
+FormPage copy.tsx
+ResultsPage copy.tsx
