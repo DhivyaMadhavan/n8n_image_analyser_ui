@@ -3,6 +3,7 @@ import { useNavigate } from 'react-router-dom';
 import { Upload, ImagePlus, X, Loader2, AlertCircle } from 'lucide-react';
 
 const WEBHOOK_URL = import.meta.env.VITE_N8N_WEBHOOK_URL;
+console.log("N8N Webhook URL:", WEBHOOK_URL);
 
 interface Detection {
   detectionId: string;
